@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  [Example APPS] Basic Flutter apps, for flutter devs.
+  name: FlutterExampleApps version: 1.0 type: Repository author: VarshuAi description: >   [Example APPS] Basic Flutter apps, for flutter devs. primary_tech: Dart
 primary_tech: Dart
 ```
 
